@@ -8,6 +8,7 @@ This application is a Content Management System interface, which is built for no
 2. run 'npm install' to install dependencies (express, mysql, console.table) needed for this application
 3. Run 'node employeeTracker.js' in terminal, a message saying 'connected as ____' will be displayed. This means the application is running in your terminal.
 
+![CLIAPP](https://user-images.githubusercontent.com/58242373/82768909-d2f95b80-9dff-11ea-9481-e699f9705eea.jpg)
 
   
 
