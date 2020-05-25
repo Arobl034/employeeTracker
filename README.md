@@ -10,6 +10,7 @@ This application is a Content Management System interface, which is built for no
 
 ## GIF/IMAGE
 
+![42pf6s](https://user-images.githubusercontent.com/58242373/82771024-b01f7500-9e08-11ea-8892-1c02351a9eb1.gif)
 ![CLIAPP](https://user-images.githubusercontent.com/58242373/82769215-9890be00-9e01-11ea-9409-87fc2e7a236b.jpg)
 
 
