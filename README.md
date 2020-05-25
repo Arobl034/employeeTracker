@@ -1,4 +1,4 @@
-:office: <h4><b>Employee Tracker</b></h4>
+:office: Employee Tracker
 
 This application is a Content Management System interface, which is built for non-developers to view and interact with information stored in databases. The Employee Tracker was built with node, inquirer, and MySQL to manage a company's employees.
 
